@@ -1,4 +1,4 @@
-# vue-exact-gif
+# getgif
 
 ## Project setup
 ```
